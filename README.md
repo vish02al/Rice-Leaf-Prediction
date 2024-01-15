@@ -1,5 +1,5 @@
 # Rice-Leaf-Prediction
-# ● This dataset contains 119 jpg images of disease-infected rice leaves. The images are grouped into 3 classes based on the type of disease. There are 40 images in each class.
+ ● This dataset contains 119 jpg images of disease-infected rice leaves. The images are grouped into 3 classes based on the type of disease. There are 40 images in each class.
 # ● Classes
 1. Leaf smut
 2. Brown spot
